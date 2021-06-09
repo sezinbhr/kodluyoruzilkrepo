@@ -1,9 +1,9 @@
 # Kodluyoruz İlk Repo 
-Bu repo kodluyoruz Front-End eğitiminde oluşturulan örnek bir repo.</p>
+This repo is a sample repo created in the Front-End tutorial.
 
 ## Installation 
 ---
-Oncelikle projeyi klonlayın.
+First clone the project.
 
 ``` 
  https://github.com/sezinbhr/kodluyoruzilkrepo.git
@@ -11,9 +11,9 @@ Oncelikle projeyi klonlayın.
 
 ## Usage
 ---
-Projeyi klonladıktan sonra VS Code programında açın.
+After cloning the project, open it in VS Code.
 
-Linux için:
+For Linux:
 
 ``` 
 cd kodluyoruzilkrepo
@@ -22,8 +22,7 @@ code .
 
 ## Contributing
 ---
-Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-
+Pull requests are accepted. For major changes, please first open a thread to discuss what you want to change.
 ## License
 ---
 [MIT](https://github.com/sezinbhr/kodluyoruzilkrepo/blob/main/LICENSE)
