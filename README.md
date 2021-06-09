@@ -27,7 +27,7 @@ Pull requests are accepted. For major changes, please first open a thread to dis
 ---
 [MIT](https://github.com/sezinbhr/kodluyoruzilkrepo/blob/main/LICENSE)
 
-## Proje Resmi
+## Project Image
 ---
 ![Image](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
